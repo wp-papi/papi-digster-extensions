@@ -21,7 +21,7 @@ $ composer require wp-papi/papi-digster-extensions
 ### Get option
 
 ```twig
-<p>{{ papi_get_option('site') }}</p>
+<p>Copyright {{ papi_get_option('site') }}</p>
 ```
 
 ### Get slugs
