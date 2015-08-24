@@ -27,8 +27,8 @@ $ composer require wp-papi/papi-digster-extensions
 ### Get slugs
 
 ```twig
-{% for box in papi_get_slugs(1) %}
-  <p>{{ box }}</p>
+{% for title, slugs in papi_get_slugs(1) %}
+  <p>{{ title }}</p>
 {% endfor %}
 ```
 
