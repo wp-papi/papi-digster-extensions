@@ -4,7 +4,13 @@
   "description": "Papi extensions for Digster",
   "homepage": "https://github.com/wp-papi/digster-extensions",
   "license": "MIT",
-  "keywords": ["wordpress","plugin", "papi"],
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "papi",
+    "twig",
+    "digster"
+  ],
   "authors": [
     {
       "name": "Fredrik Forsmo",
