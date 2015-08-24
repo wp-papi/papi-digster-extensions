@@ -20,10 +20,16 @@ $ composer require wp-papi/papi-digster-extensions
 
 ### Get option
 
-Papi function: `papi_get_option`
-
 ```twig
 <p>{{ papi_get_option('site') }}</p>
+```
+
+### Get slugs
+
+```twig
+{% for box in papi_get_slugs(1) %}
+  <p>{{ box }}</p>
+{% endfor %}
 ```
 
 # License
