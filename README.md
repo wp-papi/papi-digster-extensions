@@ -2,6 +2,12 @@
 
 [Digster](https://github.com/frozzare/digster) extensions for Papi.
 
+# Installation
+
+```
+$ composer require wp-papi/papi-digster-extensions
+```
+
 # Example
 
 ### Get field
