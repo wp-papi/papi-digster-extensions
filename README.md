@@ -1,4 +1,4 @@
-# Digster extensions
+# Digster extensions for Papi
 
 [![License](https://img.shields.io/packagist/l/wp-papi/papi-digster-extensions.svg)](https://packagist.org/packages/wp-papi/papi-digster-extensions)
 
