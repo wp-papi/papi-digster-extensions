@@ -9,7 +9,7 @@
  * Plugin URI: https://github.com/wp-papi/papi-digster-extensions
  */
 
-require_once __DIR__ . '/src/class-papi-extensions.php';
+require_once __DIR__ . '/src/class-extensions.php';
 
 /**
  * Add Papi extensions to Digster.
