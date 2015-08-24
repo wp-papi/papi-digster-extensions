@@ -1,5 +1,5 @@
 {
-  "name": "wp-papi/digster-extensions",
+  "name": "wp-papi/papi-digster-extensions",
   "type": "wordpress-plugin",
   "description": "Papi extensions for Digster",
   "homepage": "https://github.com/wp-papi/digster-extensions",
