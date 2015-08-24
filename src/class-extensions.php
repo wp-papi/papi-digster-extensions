@@ -13,7 +13,8 @@ class Extensions extends \Twig_Extension {
     public function getFunctions() {
         $callables = [
             'papi_get_field'  => 'papi_get_field',
-            'papi_get_option' => 'papi_get_option'
+            'papi_get_option' => 'papi_get_option',
+            'papi_get_slugs'  => 'papi_get_slugs'
         ];
 
         foreach ( $callables as $fn => $callable ) {
