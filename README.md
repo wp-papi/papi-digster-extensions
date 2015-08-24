@@ -1,6 +1,8 @@
 # Digster extensions
 
-[Digster](https://github.com/frozzare/digster) extensions for Papi.
+[![License](https://img.shields.io/packagist/l/wp-papi/papi-digster-extensions.svg)](https://packagist.org/packages/wp-papi/papi-digster-extensions)
+
+[Digster](https://github.com/frozzare/wp-digster) extensions for Papi.
 
 # Installation
 
