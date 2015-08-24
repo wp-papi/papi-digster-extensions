@@ -15,7 +15,7 @@ $ composer require wp-papi/papi-digster-extensions
 ### Get field
 
 ```twig
-<p>Hello {{ papi_get_field(event, 'name') }}!</p>
+<p>Hello {{ papi_get_field(1, 'name') }}!</p>
 ```
 
 ### Get option
