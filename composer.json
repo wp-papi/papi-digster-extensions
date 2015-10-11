@@ -2,7 +2,7 @@
   "name": "wp-papi/papi-digster-extensions",
   "type": "wordpress-plugin",
   "description": "Papi extensions for Digster",
-  "homepage": "https://github.com/wp-papi/digster-extensions",
+  "homepage": "https://github.com/wp-papi/papi-digster-extensions",
   "license": "MIT",
   "keywords": [
     "wordpress",
@@ -19,7 +19,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/wp-papi/digster-extensions/issues"
+    "issues": "https://github.com/wp-papi/papi-digster-extensions/issues"
   },
   "require": {
     "php": ">=5.4.7",
