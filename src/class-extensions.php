@@ -9,7 +9,6 @@ class Extensions extends \Twig_Extension {
      *
      * @return array
      */
-
     public function getFunctions() {
         $callables = [
             'papi_get_field'  => 'papi_get_field',
@@ -29,9 +28,7 @@ class Extensions extends \Twig_Extension {
      *
      * @return string
      */
-
     public function getName() {
         return 'papi-digster-extensions';
     }
-
 }
