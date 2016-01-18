@@ -32,6 +32,6 @@ $ composer require wp-papi/papi-digster-extensions
 {% endfor %}
 ```
 
-# License
+## License
 
 MIT © [Fredrik Forsmo](https://github.com/frozzare)
